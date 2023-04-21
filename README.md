@@ -4,4 +4,4 @@ I decided to analyze shootings in the States having stumbled on [this](https://w
 
 A single notebook would have been a bit long so I chose to clean the data in one notebook and do the analysis in a separate one. Both are clearly-labeled and available in this repository.
 
-I went a step further and built an interactive dashboard using Tableau. [Here it is.](https://public.tableau.com/app/profile/brian.sabacon/viz/USShootings1982-2023/Dashboard1)
+I went a step further and built an interactive dashboard using Tableau. [Here it is.](https://public.tableau.com/shared/QFW7WWX34?:display_count=n&:origin=viz_share_link)
